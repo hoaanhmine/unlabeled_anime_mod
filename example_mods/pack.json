@@ -1,7 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "Funk! Miss Nagatoro",
+	"description": "A one-shot nagatoro mod",
 	"restart":false,
-	"runsGlobally": false,
 	"color": [170, 0, 255]
 }
